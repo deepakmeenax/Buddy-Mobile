@@ -22,7 +22,7 @@ A Simple to use app to search required blood in near by blood banks and take par
 <li class="has-line-data" data-line-start="22" data-line-end="23"><a href="https://reactnative.dev/">ReactNative</a> - JavaScript-based mobile app framework that allows you to build natively-rendered mobile apps for iOS and Android</li>
 <li class="has-line-data" data-line-start="23" data-line-end="24"><a href="https://www.npmjs.com/package/redux">Redux</a> - JavaScript library for managing application state.</li>
 </ul>
-<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Backend Repo for this is <a href="https://github.com/MEMARSAHAB/">Here</a> </h5>
+<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Backend </h5>
 <ul>
 <li class="has-line-data" data-line-start="27" data-line-end="28"><a href="http://nodejs.org">Node.js</a> - evented I/O for the backend</li>
 <li class="has-line-data" data-line-start="28" data-line-end="29"><a href="http://expressjs.com">Express.js</a> - fast node.js network app framework</li>
@@ -31,7 +31,8 @@ A Simple to use app to search required blood in near by blood banks and take par
   
 
 </ul>
-<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Website Repo for this is <a href="https://github.com/MEMARSAHAB/">Here</a> </h5>  
+<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Backend Repo for this is <a href="https://github.com/MEMARSAHAB/Buddy-Api">Here</a> </h5>  
+<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Website Repo for this is <a href="https://github.com/MEMARSAHAB/Buddy-Web">Here</a> </h5>  
 
 
 <h2 class="code-line" data-line-start=34 data-line-end=35 ><a id="Installation_34"></a>Installation</h2>
