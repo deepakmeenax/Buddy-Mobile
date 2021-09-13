@@ -42,7 +42,7 @@ Install expo-cli</p>
 <pre><code class="has-line-data" data-line-start="70" data-line-end="72" class="language-sh">npm install --global expo-cli
 </code></pre>
 <p class="has-line-data" data-line-start="73" data-line-end="74">Install the dependencies and and start the App.</p>
-<pre><code class="has-line-data" data-line-start="75" data-line-end="80" class="language-sh"><span class="hljs-built_in">cd</span> mobile
+<pre><code class="has-line-data" data-line-start="75" data-line-end="80" class="language-sh">
 npm i
 expo start
 scan qr code <span class="hljs-keyword">in</span> expo app and boom app is runing.
